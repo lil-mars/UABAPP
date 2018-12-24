@@ -1,0 +1,38 @@
+page-contact {
+  .fototitulo{
+    position: absolute;
+    top:30px;
+    left: 28px;
+
+  }
+  .btn_informacion{
+    width: 130px;
+    height: 40px;
+
+  }
+  .btn_ingresar{
+    width: 130px;
+    height: 40px;
+  }
+  .buttos {
+    color:black;
+    position: absolute;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    padding: 80px;
+    left:15px;
+    bottom: 20px;
+  }
+  span{
+    color:black;
+  }
+  .drugs{
+    color:red;
+    background-color: #053F20;
+    background-image: url("../../assets/sistema/sistemaacademico/opg.PNG");
+    background-repeat: no-repeat;
+    background-size:130% 100%; ;
+    background-position: center center;
+    }
+
+}
